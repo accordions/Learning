@@ -1,0 +1,18 @@
+Questions List
+
+OO lang.
+    - object with attributes to bind and reference
+    - function vs. class methods? 
+    - examples of class methods?
+
+data types
+    - dictionaries: 1 key to 1 value pair, how to map multiple values to 1 category?
+
+misc.
+    - what's a caller? e.g. pass back an expression to a caller
+    - Anonymous functions - instead of declaring wth def, declare with lambda; why is this useful
+    
+nand2tetrix type qs
+    - what's an OS
+    - what's a wrapper
+    - what's Bash, Shell, kernel
